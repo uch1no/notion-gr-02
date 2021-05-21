@@ -1,1 +1,3 @@
-# notion-gr-02
+# Notion to Goodreads
+
+Reading Challenge.
